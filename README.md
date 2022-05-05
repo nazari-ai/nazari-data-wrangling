@@ -1,7 +1,7 @@
 # asalytics-data-wrangling
 
-Twitter Data Wrangling [Notebook](/https://github.com/asalytics/asalytics-data-wrangling/blob/main/Twitter/twitter_clean.ipynb)
+Twitter Data Wrangling [Notebook](https://github.com/asalytics/asalytics-data-wrangling/blob/main/Twitter/twitter_clean.ipynb/)
 
-Github Data Wrangling [Notebook](/https://www.kaggle.com/code/kolawoleprecious/asalytics-github-data-preprocessing-notebook?scriptVersionId=94756319)
+Github Data Wrangling [Notebook](https://www.kaggle.com/code/kolawoleprecious/asalytics-github-data-preprocessing-notebook?scriptVersionId=94756319/)
 
-Reddit Data Wrangling [Notebook](/https://www.kaggle.com/code/kolawoleprecious/asalytics-reddit-data-preprocessing-notebook?scriptVersionId=94799538)
+Reddit Data Wrangling [Notebook](https://www.kaggle.com/code/kolawoleprecious/asalytics-reddit-data-preprocessing-notebook?scriptVersionId=94799538/)
